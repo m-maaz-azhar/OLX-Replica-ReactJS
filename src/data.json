@@ -1,0 +1,70 @@
+[
+    {
+        "products": [
+            {
+                "product-id": 0,
+                "title": "Best Acoustic Guitar Collection",
+                "img-url": "https://i.ibb.co/6my1gVd/image-s-943x0-q-60-1024w.jpg",
+                "price": "8,500",
+                "date": "April 9",
+                "location": "SADDAR, RAWALPINDI"
+            },
+            {
+                "product-id": 1,
+                "title": "Suzuki Wagon-R 2017",
+                "img-url": "https://i.ibb.co/pX4M9r2/image-s-943x0-q-60.jpg",
+                "price": "1,535,000",
+                "date": "April 25",
+                "location": "Lahore, Punjab"
+            },
+            {
+                "product-id": 2,
+                "title": "Colorful Real Jades Beads Bracelet",
+                "img-url": "https://i.ibb.co/X5N6ZW9/image-s-780x0-q-60.jpg",
+                "price": "3,000",
+                "date": "May 4",
+                "location": "Lahore, Punjab"
+            },
+            {
+                "product-id": 3,
+                "title": "Gaming Setup for Sale Urgent",
+                "img-url": "https://i.ibb.co/nLtBqzb/image-s-943x0-q-60.jpg",
+                "price": "140,000",
+                "date": "April 19",
+                "location": "Bhakkar, Punjab"
+            },
+            {
+                "product-id": 4,
+                "title": "Get your hair back with hair fortify",
+                "img-url": "https://i.ibb.co/MgHNrJr/image-s-943x0-q-60.jpg",
+                "price": "999",
+                "date": "May 1",
+                "location": "Multan, Punjab"
+            },
+            {
+                "product-id": 5,
+                "title": "Iphone 6s plus only sale need money",
+                "img-url": "https://i.ibb.co/1Jv7BM7/image-s-943x0-q-60.jpg",
+                "price": "23,500",
+                "date": "May 6",
+                "location": "Faisalabad, Punjab"
+            },
+            {
+                "product-id": 6,
+                "title": "One plus 8 8gb 128gb",
+                "img-url": "https://i.ibb.co/1vkCj6S/image-s-943x0-q-60.jpg",
+                "price": "75,000",
+                "date": "April 21",
+                "location": "Lahore, Punjab"
+            },
+            {
+                "product-id": 7,
+                "title": "New Chain watches for men",
+                "img-url": "https://i.ibb.co/9qtGCw1/image-s-780x0-q-60.jpg",
+                "price": "1,800",
+                "date": "May 2",
+                "location": "Rawalpindi, Punjab"
+            }
+        ]
+    }
+]
